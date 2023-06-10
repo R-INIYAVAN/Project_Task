@@ -1,0 +1,145 @@
+.footer-container{
+    width: 100%;
+    height: 325px;
+    /* border: 1px solid black; */
+}
+
+.footer-container-main{
+    display: flex;
+    margin-bottom: 43px;
+}
+
+.footer-logo-container{
+    display: flex;
+    flex-direction: column;
+    /* background-color:darkslateblue; */
+    margin-top: 45px;
+    margin-left: 130px;
+    margin-right: 60px;
+    width: 276px;
+}
+
+.footer-logo-box{
+    margin-bottom: 20px;
+}
+
+.footer-logo{
+    width: 160px;
+    height: auto;
+}
+
+.footer-logo-description{
+    display: flex;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #505050;
+    margin-bottom: 20px;
+}
+
+.footer-logo-icons{
+    display: flex;
+    /* background-color: yellow; */
+    gap: 12px;
+}
+
+.footer-list-heading{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 10px;
+}
+
+.footer-list-options{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.footer-list-option{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #8B96A5;
+}
+
+.footer-list{
+    display: flex;
+    flex-direction: column;
+    /* background-color: brown; */
+    /* border: 1px solid black; */
+}
+
+.footer-lists{
+    display: flex;
+    margin-top: 40px;
+}
+
+.About{
+    margin-right: 65px;
+}
+
+.Partnership{
+    margin-right: 65px;
+}
+
+.Information{
+    margin-right: 90px;
+}
+
+.For-users{
+    margin-right: 95px;
+}
+
+.footer-list-images{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.footer-list-image{
+    display: flex;
+    background-color: #1c1c1c;
+    padding: 8px 11px;
+    border-radius: 6px;
+}
+
+.footer-container-sub{
+    display: flex;
+    height: 70px;
+    background-color: #eff2f4;
+    align-items: center;
+}
+
+.footer-container-sub-left{
+    display: flex;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #606060;
+    margin-left: 128px;
+}
+
+.footer-container-sub-right{
+    display: flex;
+    gap: 5px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #606060;
+    margin-left: 910px;
+}

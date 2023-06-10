@@ -1,0 +1,196 @@
+{
+    "overall-content":{
+        "searchbar":{
+            "id":1,
+            "searchbar-logo":{
+                "id":1,
+                "logo-url":"../images/searchbar/logo-colored.svg"
+            },
+            "category":[
+                {
+                    "id":1,
+                    "category-type":"All category"
+                },
+
+                {
+                    "id":2,
+                    "category-type":"Shirts"
+                }
+            ],
+            "searchbar-icons":[
+                {
+                    "id":1,
+                    "icon":"Profile",
+                    "icon-url":"../images/searchbar/icons/user.svg"
+                },
+
+                {
+                    "id":2,
+                    "icon":"Message",
+                    "icon-url":"../images/searchbar/icons/message.svg"
+                },
+
+                {
+                    "id":3,
+                    "icon":"Orders",
+                    "icon-url":"../images/searchbar/icons/heart.svg"
+                },
+
+                {
+                    "id":4,
+                    "icon":"My Cart",
+                    "icon-url":"../images/searchbar/icons/cart.svg"
+                }
+            ]
+        },
+
+        "navbar":{
+            "id":2,
+            "navbar-left":[
+                {
+                    "id":1,
+                    "content":"All category",
+                    "icon-first":"../images/navbar/icons/Menubar.svg"
+                },
+
+                {
+                    "id":2,
+                    "content":"Hot offers"
+                },
+
+                {
+                    "id":3,
+                    "content":"Gift boxes"
+                },
+
+                {
+                    "id":4,
+                    "content":"Projects"
+                },
+
+                {
+                    "id":5,
+                    "content":"Menu item"
+                },
+
+                {
+                    "id":6,
+                    "content":"Help",
+                    "icon-second":"../images/navbar/icons/dropdown.png"
+                }
+            ],
+
+            "navbar-right":{
+                "language":[
+                    {
+                        "id":1,
+                        "type":"English, USD"
+                    },
+                    {
+                        "id":2,
+                        "type":"Japan, YEN"
+                    }
+                ],
+                "shipment":{
+                    "content":"Ship to",
+                    "logo":[
+                        {
+                            "id":1,
+                            "country":"Germany",
+                            "logo-img":"../images/navbar/country-icons/Germany.svg"
+                        },
+                        {
+                            "id":2,
+                            "country":"UAE",
+                            "logo-img":"../images/navbar/country-icons/UAE.svg"
+                        },
+                        {
+                            "id":3,
+                            "country":"Australia",
+                            "logo-img":"../images/navbar/country-icons/Australia.svg"
+                        },
+                        {
+                            "id":4,
+                            "country":"China",
+                            "logo-img":"../images/navbar/country-icons/China.svg"
+                        },
+                        {
+                            "id":5,
+                            "country":"Denmark",
+                            "logo-img":"../images/navbar/country-icons/Denmark.svg"
+                        },
+                        {
+                            "id":6,
+                            "country":"England",
+                            "logo-img":"../images/navbar/country-icons/England.svg"
+                        },
+                        {
+                            "id":7,
+                            "country":"France",
+                            "logo-img":"../images/navbar/country-icons/France.svg"
+                        }
+                    ],
+                    "dropdown-logo":"../images/navbar/icons/dropdown.png"
+                }
+            }
+        },
+
+        "product-container":{
+            "id":3,
+            "directory":{
+                "id":1,
+                "directory-arrow-img":"../images/product_container/right_arrow.svg",
+                "directory_category":[
+                    {
+                        "id":1,
+                        "directory_category_name":"Home"
+                    },
+                    {
+                        "id":2,
+                        "directory_category_name":"Clothings"
+                    },
+                    {
+                        "id":3,
+                        "directory_category_name":"Men's Wear"
+                    },
+                    {
+                        "id":4,
+                        "directory_category_name":"Summer Clothing"
+                    }
+                ]
+            },
+            "product-sample-container":{
+                "id":2,
+                "product-images":{
+                    "product-main-image":"../images/product_container/product_images/image 34.png",
+                    "product-other-image":[
+                        {
+                            "id":1,
+                            "image":"../images/product_container/product_images/image 35.svg"
+                        },
+                        {
+                            "id":2,
+                            "image":"../images/product_container/product_images/image 36.svg"
+                        },
+                        {
+                            "id":3,
+                            "image":"../images/product_container/product_images/image 37.svg"
+                        },
+                        {
+                            "id":4,
+                            "image":"../images/product_container/product_images/image 38.svg"
+                        },
+                        {
+                            "id":5,
+                            "image":"../images/product_container/product_images/image 39.svg"
+                        },
+                        {
+                            "id":6,
+                            "image":"../images/product_container/product_images/image 40.svg"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

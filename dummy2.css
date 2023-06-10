@@ -1,0 +1,18 @@
+.search-container{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    align-items: center;
+}
+
+.input{
+    width: 100%;
+    max-width: 700px;
+    min-width: 420px;
+    margin-right: 20px;
+    height: 40px;
+}
+
+.image-container{
+    margin-left: 20px;
+}
